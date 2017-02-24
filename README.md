@@ -2,7 +2,7 @@
 주오 대학생 시절, KBS 라디오 방송을 Mac OS X에서도 듣고싶은데 KBS에서는 [콩](http://www.kbs.co.kr/radio/kong/)이라는 앱을 통한 듣기만 지원하고 있었다. 주오는 크아아아아 울부짓었고 요래조래 콩을 까 보고 ~~ㅋㄲㅈㅁ~~ 해서 만들어 보았음. 그리고 주오는 이걸 만들고 나서부터 라디오를 듣지 않고 있다.
 
 ## 사용법
-아래 주소에서 [Google App Engine](https://cloud.google.com)을 통해 서비스되고 있다. 들어가면 방송별 주소가 나올 것이며, mm를 지원하는 플레이어(VLC 등)으로 재생이 가능하다고 전해들었다. 근데 요새 그런 게 있나...
+아래 주소에서 [Google App Engine](https://cloud.google.com)을 통해 서비스되고 있다. 들어가면 방송별 주소가 나올 것이며, mms를 지원하는 플레이어(VLC 등)으로 재생이 가능하다고 전해들었다. 하지만 redirection 지원 안 하면 재생 안 되는 듯. 근데 요새 그런 게 있나...
 
 https://juoradio.appspot.com
 
